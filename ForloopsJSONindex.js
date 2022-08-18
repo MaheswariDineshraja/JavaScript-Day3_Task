@@ -23,5 +23,3 @@ console.log("***For Each***");
 arr.forEach((num) => {
   console.log(num)
 });
-
-
